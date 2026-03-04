@@ -36,6 +36,11 @@ Operações disponíveis:
 - multiplicação
 - divisão (com verificação para evitar divisão por zero)
 
+## Projetos em Java
+
+### MathMenuApp
+Aplicação em Java com menu interativo que permite realizar várias operações matemáticas como soma, subtração, multiplicação, divisão, verificação de número par/ímpar, equações e cálculos simples.
+
 ## Objetivo
 Este repositório faz parte do meu portfólio de programação e documenta minha evolução durante o aprendizado em desenvolvimento de software.
 

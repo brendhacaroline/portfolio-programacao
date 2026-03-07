@@ -2,7 +2,7 @@
 
 Olá! Meu nome é **Brendha Caroline**.
 
-Este repositório contém alguns projetos desenvolvidos durante o meu **curso Técnico em Informática – Sistemas (IEFP)**, com foco em lógica de programação e desenvolvimento em **linguagem C**, **java**.
+Este repositório contém alguns projetos desenvolvidos durante o meu **curso Técnico em Informática – Sistemas (IEFP)**, com foco em lógica de programação e desenvolvimento em **linguagens C**, **Java**.
 
 ## Linguagens utilizadas
 - C

@@ -50,7 +50,7 @@ Operações disponíveis:
 - equações e cálculos simples.
 
 Tecnologias utilizadas:
- Java
+- Java
 - Scanner para entrada de dados
 - Métodos para organização do código
 - Estruturas condicionais e Repetição

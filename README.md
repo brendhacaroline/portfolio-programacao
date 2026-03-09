@@ -71,6 +71,31 @@ Tecnologias utilizadas:
 - Scanner para entrada de dados
 - switch para menu interativo
 
+## Tic Tac Toe Game
+
+Jogo do Galo desenvolvido em Java utilizando matrizes, métodos e lógica de verificação de vitória.
+
+### Funcionalidades
+- tabuleiro 3x3
+- alternância entre jogadores X e O
+- validação de jogadas
+- verificação automática de vitória
+- deteção de empate
+
+### Tecnologias utilizadas
+- Java
+- Scanner para entrada de dados
+- Matrizes
+- Métodos
+- Estruturas condicionais e ciclos
+
+### Objetivo do projeto
+Este projeto foi desenvolvido para praticar:
+- manipulação de matrizes
+- organização do código em métodos
+- lógica de jogo
+- validação de entradas
+
 ## Objetivo
 Este repositório faz parte do meu portfólio de programação e documenta minha evolução durante o aprendizado em desenvolvimento de software.
 
